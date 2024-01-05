@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @engineer89
 - 👀 I’m interested in programming, gaming and music.
 - 🌱 I’m currently learning JavaFx
-- 📫 You can follow me on twitter: https://twitter.com/fabiogioria
+- 📫 You can follow me on Instagram: https://www.instagram.com/fabiogioria
